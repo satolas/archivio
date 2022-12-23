@@ -1,9 +1,9 @@
 {
   "releases": [
     {
-      "version": "0.2.4",
+      "version": "0.2.5",
       "channel": "stable",
-      "patchnotes": "- test",
+      "patchnotes": "- Added Update system, prompt a notification to the user to know when an update is availabe",
       "update": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2",
       "install": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2/Simple.Updater.Example.Setup.0.0.2.exe"
     },
