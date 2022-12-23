@@ -2,22 +2,22 @@
   "releases": [
     {
       "version": "0.2.4",
-      "patchnotes": "- Fixed all paths to be normalized to '/' to make Archivio compatible with MacOS and Linux - Fixed sub folders being inconsistent depending of the Platform or location. - Automatic Screenshot detection works better on different platforms now. - fixed a bug where creating a new file was not adding number,name,date, but still Inconsistent - Added a smart way to watch for screenshots whatever choice the user do. - Added code base to recognize specific capture Software added in the future, ShareX...",
       "channel": "stable",
+      "patchnotes": "- Fixed all paths to be normalized to '/' to make Archivio compatible with MacOS and Linux - Fixed sub folders being inconsistent depending of the Platform or location. - Automatic Screenshot detection works better on different platforms now. - fixed a bug where creating a new file was not adding number,name,date, but still Inconsistent - Added a smart way to watch for screenshots whatever choice the user do. - Added code base to recognize specific capture Software added in the future, ShareX...",
       "update": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2",
       "install": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2/Simple.Updater.Example.Setup.0.0.2.exe"
     },
     {
       "version": "0.2.3",
-      "patchnotes": "- test",
       "channel": "experimental",
+      "patchnotes": "- test",
       "update": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2",
       "install": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2/Simple.Updater.Example.Setup.0.0.2.exe"
     },
     {
       "version": "0.2.2",
-      "patchnotes": "- test",
       "channel": "stable",
+      "patchnotes": "- test",
       "update": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2",
       "install": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2/Simple.Updater.Example.Setup.0.0.2.exe"
     }
